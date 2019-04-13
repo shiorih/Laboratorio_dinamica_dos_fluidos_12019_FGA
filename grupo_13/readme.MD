@@ -12,7 +12,7 @@ Grupo 13:
   
   A equação de Bernoulli relaciona a pressão, a velocidade e a altura de quaisquer dois pontos (1 e 2) em um fluxo constante de fluido de densidade . A equação de Bernoulli é normalmente escrita da seguinte forma:
 
-P1 + v1² + gh1 = P2 + v2² + gh2 (1)
+![](EQ1.gif)
 
 Sendo:
 P1 = Pressão inicial;
@@ -34,7 +34,7 @@ h2 = Altura final;
   
   Temos como premissa que não há variação da altura, logo tem-se que os componentes que dependem da mesma será zero, sendo assim, podemos reescrever a equação:
 
-P1 + v1² = P2 + v2² (2)
+![](EQ2.gif)
 
 Passo a passo para a realização do experimento: 
 * Verificar os sensores que estão no túnel de vento;
