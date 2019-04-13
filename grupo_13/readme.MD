@@ -51,13 +51,6 @@ Grupo 13:
 
 	Após a obtenção dos dados, será feita a comparação com resultados teóricos e experimentais. 
 
-   
-### 2.	Planejamento e Preparação:
-
-### 3.	Execução:
- 
-### 4.	Análise e conclusão:
-
 
 ### 2.	Planejamento e Preparação:
 
