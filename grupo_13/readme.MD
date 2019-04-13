@@ -15,13 +15,21 @@ Grupo 13:
 ![](EQ1.gif)
 
 Sendo:
+
 P1 = Pressão inicial;
- = Densidade do ar dentro do túnel;
+
+![](RHO.gif)= Densidade do ar dentro do túnel;
+
 v1 = Velocidade dentro do túnel;
+
 h1 = Altura inicial;
+
 P2 = Pressão final;
- = Densidade do ar na saída do túnel;
+
+![](RHO.gif)= Densidade do ar na saída do túnel;
+
 v2 = Velocidade na saída do túnel;
+
 h2 = Altura final;
 
 **1.2 Objetivo:**
